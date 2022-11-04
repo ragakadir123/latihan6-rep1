@@ -11,6 +11,11 @@
 <body>
     <h1>Hello world!</h1>
     <p>halo lagi, dan salam kenal untuk kita semua</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 
 </html>
